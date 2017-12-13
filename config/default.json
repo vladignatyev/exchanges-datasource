@@ -1,0 +1,8 @@
+{
+  "redis": {
+    "url": "redis://localhost:6379/0"
+  },
+  "concurrency": 5,
+  "ttlSeconds": 432000,
+  "lifetimeCycles": 10 
+}
